@@ -64,8 +64,24 @@
 # directory1 = {"sting1":1,"string2":2}
 # directory2 = {"sting13":13,"string23":23}
 # directory1.update(directory2)
-
 # print(directory1)
+
+
+
+# print the sum but not deffind int or string 
+# x=input('enter you nuber:')
+# y=input('enter your secound number:')
+# print(x+y)
+
+# count function 
+# marks = (12,13,14,14,14)
+# print(marks.count(12))
+
+# sum int number and string 
+# first = input ("Enter first number:")
+# secound = input("enter secound number")
+# sum = int(first)+int(secound)
+# print ("The sum is:"+str(sum))
 
 
 
