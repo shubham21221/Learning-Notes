@@ -1,7 +1,7 @@
-body{
-    background-color: blueviolet;
+ body{
+    background-color: rgb(223, 204, 241);
 }
-
+/*
 h1{
     color: rgb(14, 215, 61);
 }
@@ -25,5 +25,53 @@ div{
 #name3{
     color: rgb(255, 0, 119);
 
+} */
+
+
+/* 11 apr  */
+
+div{
+    background-color: rgb(35, 222, 222);
+    color: white;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 80px;
+    
+
+    border: 8px solid red; 
+    border-top: 40px solid red;
+    border-bottom: 40px solid red;
+    
+    padding-right: 40px;
+     width: 300px;
+    height: 200px;
+
+    
+    margin: 0 auto;
+
+    max-width: 500px;
+    min-height: 500px;
+    background: red;
+
+    padding: 20px;
+    border: 6px solid rgb(102, 68, 18);
+    margin: 40px;
+
+    
+    text-align: justify;
+    text-align: left;
+    text-align:  right;
+    text-align: center;
+    
+    text-transform: capitalize;
+    text-transform: uppercase ; 
+    text-transform: lowercase;
+    text-transform: none;
+    
+
+    text-shadow: 1px 2px ;   
+    word-wrap: initial;   
+    direction: ltr;   
+    
 }
 
