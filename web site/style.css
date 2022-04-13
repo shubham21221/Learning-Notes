@@ -1,5 +1,6 @@
  body{
     background-color: rgb(223, 204, 241);
+
 }
 /*
 h1{
@@ -30,7 +31,7 @@ div{
 
 /* 11 apr  */
 
-div{
+/* div{
     background-color: rgb(35, 222, 222);
     color: white;
     margin-top: 50px;
@@ -73,5 +74,59 @@ div{
     word-wrap: initial;   
     direction: ltr;   
     
+} */
+ a{
+    text-align: center;
+    
+}
+a:link{
+    text-decoration: none;
+    background-color: blue;
+
+}
+a:visited{
+    text-decoration: none;
+    background-color: red;
+}
+a:hover{
+    border: 1px solid yellow;
+    background-color: aqua;
+    
+}
+
+ p.auto{
+    outline-style: auto;
+
+}
+p.none{
+    margin-top: 80px;
+    border-bottom: 10px dotted rgb(6, 4, 4);
+}
+ button{
+    font-family: fantasy;
+}
+#button1{
+    background-color: brown;
+
+}
+#button1:link{
+    text-decoration: none;
+    background-color: blue;
+}
+
+#button1:hover{
+    background-color: aquamarine;
+}
+#button2{
+    background-color: aqua;
+} 
+
+video{
+    height: 200px;
+    border-radius: 40px;
+}
+video:hover{
+    border: 10px solid rgb(118, 90, 90);
+    background-color: aqua;
 }
 
