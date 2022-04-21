@@ -1,12 +1,13 @@
-// Js overviwe
-// js indroduction
+// Js overviwe indroduction
 // js writing Code 
 // Js displaying output
 // js statements
 // js Syntax
+
 // js comments 
 // js variables
 // js data type 
+
 // js operators
 // ja funtions
 // js object 
