@@ -165,6 +165,8 @@ footer{
     text-align: center;
 }
 .footer-body li > a{
+
+    
     color: blue;
     text-decoration: none;
     margin-bottom: 7px;

@@ -8,20 +8,20 @@
 // js variables
 // js data type 
 
-// js operators
-// ja funtions
-// js object 
-// ja string 
-// js string mehtods / funtions
-// js Array
-// js loops for/while/ for of/
-// js conditional statements
-// js break and continue
-// js timeout and setInterval
-// js variable scope 
-// js strick mode 
+// 9-js operators
+// 10-js funtions
+// 11-js object 
+// 12-ja string 
+// 13-js string mehtods / funtions
+// 14-js Array
+// 15-js loops for/while/ for of/
+// 16-js conditional statements
+// 17-js break and continue
+// 18-js timeout and setInterval
+// 19-js variable scope 
+// 20-js strick mode 
 
-// // javascript Advanced
+// 21-// javascript Advanced
 
 // js Dates 
 // js data formats
