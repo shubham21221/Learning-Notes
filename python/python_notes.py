@@ -85,4 +85,67 @@
 
 
 
+
+
+# create funtion 
+
+# def myfuntion():
+#     print("dslkjhjksdvnkjsdnfjkjsdjfhjdhslh")
+# myfuntion()
+# myfuntion()
+# myfuntion()
+
+# Arguments 
+
+# def myfuntion1(name): #2
+#     print("shubham@" + name)#3
+#     print("Snehal@" + name)#4
+
+#     # return
+
+# myfuntion1("gmail.com")  # 1
+
+# myfuntion1("yahu.com") #5
+
+
+# two  arguments 
+# def myfuntion(n , c , c1):
+#     print(n +" "+ c + " " + c1)
+
+# myfuntion("name","@gamil.com","close")
+
+
+# keyword arguments 
+# def myfution2(*k):
+#     print("may name is shubham"+ " " +  k[0])
+
+# myfution2("email", "anme", "name")
+
+# def funtion(**k):
+#     print(k["name1"])
+
+# funtion(name = "name12",name1 = "name111")
+
+
+# def funtion(name = "shubham"):
     
+#     print("my name is "+ " " + name)
+
+# funtion("sh")
+# funtion()
+
+# def myfuntion3(a):
+#     for x in a:
+#         print(x)
+
+# fruits = ["apple","banana","chichu"]
+# myfuntion3(fruits)
+
+
+# def myfuntion(anmefnjkldsshh):
+#     if(anmefnjkldsshh>0):
+#         print("grater")
+#     else:
+#         print("not gether")
+
+# myfuntion(-1)
