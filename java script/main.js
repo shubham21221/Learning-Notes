@@ -9,6 +9,17 @@
 // js data type 
 
 // 9-js operators
+    // arithmetic operators
+    // add +
+    // sub -
+    // multi *
+    // div /
+
+    // comparison operators
+    // ==
+    // =>
+    // <=
+
 // 10-js funtions
 // 11-js object 
 // 12-ja string 
